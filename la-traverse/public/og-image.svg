@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#102033"/>
+  <rect x="60" y="60" width="1080" height="510" fill="#f7f3eb"/>
+  <text x="110" y="180" fill="#7a1f2b" font-family="Arial, sans-serif" font-size="28" font-weight="700">REVUE CRITIQUE DE GAUCHE NON AUTORITAIRE</text>
+  <text x="110" y="330" fill="#102033" font-family="Georgia, serif" font-size="100">La Traverse</text>
+  <text x="110" y="480" fill="#64615c" font-family="Arial, sans-serif" font-size="30">Rapports de force, capitalisme, luttes sociales et autonomie.</text>
+  <path d="M780 182 C858 112 995 143 1033 238 C1070 331 992 430 885 401 C810 381 751 433 704 374 C652 309 704 247 780 182Z" fill="#d9d1c4"/>
+  <path d="M742 442 L828 360 L912 394 L1032 286" fill="none" stroke="#7a1f2b" stroke-width="12"/>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="720" viewBox="0 0 900 720" role="img" aria-labelledby="title desc">
+  <title id="title">Carte éditoriale</title>
+  <desc id="desc">Composition visuelle avec carte du monde stylisée, lignes de données et colonnes éditoriales.</desc>
+  <rect width="900" height="720" fill="#f7f3eb"/>
+  <rect x="40" y="40" width="820" height="640" fill="#fffaf2" stroke="#d9d1c4" stroke-width="2"/>
+  <path d="M150 250 C220 170 340 180 395 240 C455 305 560 255 622 310 C690 370 654 470 565 486 C475 502 410 445 325 465 C238 485 150 435 126 350 C114 305 124 275 150 250Z" fill="#d9d1c4"/>
+  <path d="M520 190 C592 132 710 153 748 225 C784 294 737 353 660 353 C596 353 552 322 502 336 C450 350 410 305 430 260 C444 229 484 219 520 190Z" fill="#c7bdaf"/>
+  <path d="M215 390 C270 360 340 372 374 415 C414 466 370 532 292 528 C222 524 170 480 180 432 C184 412 198 400 215 390Z" fill="#b9c1aa"/>
+  <g fill="none" stroke="#102033" stroke-width="3" opacity="0.85">
+    <path d="M155 185 L310 300 L455 260 L610 390 L745 315"/>
+    <path d="M160 540 L286 470 L420 500 L575 420 L735 455"/>
+  </g>
+  <g fill="#7a1f2b">
+    <circle cx="155" cy="185" r="8"/>
+    <circle cx="310" cy="300" r="8"/>
+    <circle cx="455" cy="260" r="8"/>
+    <circle cx="610" cy="390" r="8"/>
+    <circle cx="745" cy="315" r="8"/>
+  </g>
+  <g fill="#102033" font-family="Arial, sans-serif" font-weight="700" font-size="18">
+    <text x="84" y="92">LA TRAVERSE</text>
+    <text x="84" y="122" fill="#64615c" font-size="13">CAPITALISME · LUTTES SOCIALES · AUTONOMIE</text>
+  </g>
+  <g transform="translate(84 570)">
+    <rect width="180" height="18" fill="#102033"/>
+    <rect y="32" width="260" height="18" fill="#7a1f2b"/>
+    <rect y="64" width="220" height="18" fill="#53633f"/>
+  </g>
+  <g transform="translate(610 540)" fill="none" stroke-width="9">
+    <path d="M0 80 L45 34 L92 58 L142 10" stroke="#7a1f2b"/>
+    <path d="M0 118 L54 92 L105 104 L165 54" stroke="#a6752a"/>
+  </g>
+</svg>
