@@ -29,14 +29,15 @@ Le projet contient déjà:
 4. Se connecter avec GitHub.
 5. Cliquer sur `Add New Project`.
 6. Importer le dépôt `la-traverse`.
-7. Laisser Vercel détecter Next.js.
-8. Dans `Environment Variables`, ajouter:
+7. Laisser le Root Directory vide, à la racine du dépôt.
+8. Laisser Vercel détecter Next.js.
+9. Dans `Environment Variables`, ajouter:
 
 ```text
 NEXT_PUBLIC_SITE_URL=https://ton-url.vercel.app
 ```
 
-9. Cliquer sur `Deploy`.
+10. Cliquer sur `Deploy`.
 
 ### Vérification locale, optionnelle
 
