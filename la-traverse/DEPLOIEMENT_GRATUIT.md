@@ -29,7 +29,12 @@ Le projet contient déjà:
 4. Se connecter avec GitHub.
 5. Cliquer sur `Add New Project`.
 6. Importer le dépôt `la-traverse`.
-7. Laisser le Root Directory vide, à la racine du dépôt.
+7. Régler `Root Directory` sur:
+
+```text
+la-traverse
+```
+
 8. Laisser Vercel détecter Next.js.
 9. Dans `Environment Variables`, ajouter:
 
