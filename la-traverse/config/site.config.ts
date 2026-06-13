@@ -34,7 +34,7 @@ export const rubrics: Rubric[] = [
   {
     title: "Théorie & idées",
     slug: "theorie-idees",
-    description: "Concepts, débats intellectuels, traditions critiques et hypothèses d'émancipation.",
+    description: "Concepts, débats intellectuels, traditions critiques et libertés collectives.",
     color: "night"
   },
   {
@@ -55,15 +55,15 @@ export const siteConfig: SiteConfig = {
   name: "La Traverse",
   shortName: "LT",
   description:
-    "Une revue critique de gauche non autoritaire consacrée aux rapports de force internationaux, au capitalisme, aux luttes sociales et aux idées d'émancipation.",
-  promise: "Comprendre les rapports de force sans céder au bruit médiatique ni aux orthodoxies d'appareil.",
+    "Une revue critique indépendante consacrée aux rapports de force internationaux, à l'économie politique, aux institutions et aux conflits du présent.",
+  promise: "Comprendre les rapports de force sans céder au bruit médiatique ni aux réflexes de camp.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",
   locale: "fr_FR",
   contactEmail: "contact@latraverse.fr",
   author: {
     name: "Rédaction",
     slug: "redaction",
-    bio: "Collectif éditorial de gauche critique, attaché à l'autonomie intellectuelle, aux luttes sociales et au refus des autoritarismes."
+    bio: "Collectif éditorial indépendant, attaché à l'autonomie intellectuelle, à l'enquête documentée et au refus des autoritarismes."
   },
   social: {
     newsletter: "/newsletter"
@@ -83,8 +83,8 @@ export const siteConfig: SiteConfig = {
     "Souveraineté",
     "Guerre économique",
     "Élections",
-    "Luttes sociales",
-    "Autonomie",
+    "Conflits sociaux",
+    "Libertés publiques",
     "Bureaucratie",
     "Travail",
     "Capitalisme",

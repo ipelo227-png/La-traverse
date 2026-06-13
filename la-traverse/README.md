@@ -1,6 +1,6 @@
 # La Traverse
 
-MVP Next.js en français pour une revue critique de gauche non autoritaire, dans l'esprit des revues d'intervention intellectuelle comme Socialisme ou Barbarie, consacrée aux rapports de force internationaux, au capitalisme, aux luttes sociales et aux idées d'émancipation.
+MVP Next.js en français pour une revue critique indépendante, dans l'esprit des revues d'intervention intellectuelle, consacrée aux rapports de force internationaux, à l'économie politique, aux institutions et aux conflits du présent.
 
 ## Lancer le projet
 

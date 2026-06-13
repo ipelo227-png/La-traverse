@@ -11,7 +11,7 @@ export function HeroSection() {
           <h1 className="mt-5 font-serif text-5xl leading-[0.95] text-night md:text-7xl">{siteConfig.name}</h1>
           <p className="mt-6 max-w-2xl text-xl leading-8 text-ink">{siteConfig.promise}</p>
           <p className="mt-5 max-w-2xl text-base leading-7 text-muted">
-            Actualité internationale, économie politique, luttes sociales et théorie critique pour éclairer les conflits du présent, les formes de domination et les possibilités d&rsquo;émancipation.
+            Actualité internationale, économie politique, conflictualités sociales et théorie critique pour éclairer les crises du présent, les formes de domination et les marges d&rsquo;action collective.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link className="focus-ring bg-night px-5 py-3 text-sm font-semibold text-paper transition hover:bg-wine" href="/newsletter">
