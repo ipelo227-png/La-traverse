@@ -21,7 +21,7 @@ export function HeroSection() {
           <h1 className="mt-5 font-serif text-5xl leading-[0.94] text-paper md:text-7xl">{siteConfig.name}</h1>
           <p className="mt-6 max-w-2xl text-xl leading-8 text-paper md:text-2xl">{siteConfig.promise}</p>
           <p className="mt-5 max-w-2xl text-base leading-7 text-paper/78">
-            Journal d&rsquo;analyse critique, de culture et de diplomatie. Depuis Genève, suivre les rapports de force, les institutions, les récits et les formes sensibles du présent.
+            La Traverse est une revue d&rsquo;analyse critique, d&rsquo;économie politique et culturelle. Elle suit les puissances, les institutions, les récits et les formes sensibles du monde contemporain.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link className="focus-ring bg-paper px-5 py-3 text-sm font-semibold text-night transition hover:bg-ochre" href="/newsletter">

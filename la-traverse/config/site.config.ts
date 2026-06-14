@@ -61,8 +61,8 @@ export const siteConfig: SiteConfig = {
   name: "La Traverse",
   shortName: "LT",
   description:
-    "Une revue critique indépendante basée autour de Genève, entre analyse internationale, économie politique, littérature, culture et cartographie du présent.",
-  promise: "Depuis Genève, lire les rapports de force sans céder au bruit médiatique ni aux réflexes de camp.",
+    "Une revue d'analyse critique, d'économie politique et culturelle, basée autour de Genève, attentive aux puissances, aux institutions, aux récits et aux formes sensibles du monde contemporain.",
+  promise: "Depuis Genève, prendre le présent à revers.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",
   locale: "fr_FR",
   contactEmail: "contact@latraverse.fr",
