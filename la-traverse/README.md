@@ -1,6 +1,6 @@
 # La Traverse
 
-MVP Next.js en français pour une revue critique indépendante, dans l'esprit des revues d'intervention intellectuelle, consacrée aux rapports de force internationaux, à l'économie politique, aux institutions et aux conflits du présent.
+MVP Next.js en français pour une revue critique indépendante basée autour de Genève, dans l'esprit des journaux d'analyse longue, consacrée aux rapports de force internationaux, à l'économie politique, aux institutions, aux scènes lémaniques et aux formes culturelles du présent.
 
 ## Lancer le projet
 

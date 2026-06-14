@@ -12,7 +12,7 @@ export function MainNavigation() {
   return (
     <nav aria-label="Navigation principale" className="hidden items-center gap-6 text-sm font-semibold uppercase text-night lg:flex">
       {navigationItems.map((item) => (
-        <Link key={item.href} className="focus-ring rounded-sm transition hover:text-wine" href={item.href}>
+        <Link key={item.href} className="focus-ring rounded-sm transition hover:text-lake" href={item.href}>
           {item.label}
         </Link>
       ))}

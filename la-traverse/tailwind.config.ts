@@ -9,14 +9,18 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        paper: "#f7f3eb",
-        ink: "#16171a",
-        muted: "#64615c",
-        line: "#d9d1c4",
-        night: "#102033",
-        wine: "#7a1f2b",
-        moss: "#53633f",
-        brass: "#a6752a"
+        paper: "#f4eee2",
+        ink: "#17131b",
+        muted: "#625d64",
+        line: "#d7c7ad",
+        night: "#07143f",
+        wine: "#8f213d",
+        moss: "#3f6657",
+        brass: "#b97828",
+        lake: "#0b4ea2",
+        glacier: "#a9bfdb",
+        mauve: "#77549a",
+        ochre: "#d99a31"
       },
       fontFamily: {
         serif: ["var(--font-news-serif)", "Georgia", "serif"],

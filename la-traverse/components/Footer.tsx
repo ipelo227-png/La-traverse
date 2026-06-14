@@ -8,6 +8,7 @@ export function Footer() {
         <div>
           <p className="font-serif text-3xl">{siteConfig.name}</p>
           <p className="mt-4 max-w-md text-sm leading-6 text-paper/75">{siteConfig.promise}</p>
+          <p className="mt-3 text-xs uppercase text-ochre">Genève | Léman | International | Culture</p>
           <p className="mt-6 text-sm text-paper/65">{siteConfig.contactEmail}</p>
         </div>
         <div className="grid gap-8 sm:grid-cols-3">

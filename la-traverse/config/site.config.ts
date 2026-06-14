@@ -4,44 +4,50 @@ export const rubrics: Rubric[] = [
   {
     title: "À la une",
     slug: "a-la-une",
-    description: "Les analyses mises en avant par la rédaction.",
+    description: "Les textes mis en avant par la rédaction.",
     color: "wine"
   },
   {
     title: "International",
     slug: "international",
-    description: "Actualité mondiale, impérialismes, institutions et rapports de puissance.",
-    color: "night"
+    description: "Diplomatie, conflits, institutions, puissances et récits stratégiques.",
+    color: "lake"
   },
   {
-    title: "Géopolitique",
-    slug: "geopolitique",
-    description: "Conflits, recompositions régionales et stratégies d'influence.",
-    color: "wine"
+    title: "Genève & Léman",
+    slug: "geneve-leman",
+    description: "Institutions internationales, ville-frontière, lac, Alpes et scènes locales.",
+    color: "mauve"
   },
   {
     title: "Macroéconomie",
     slug: "macroeconomie",
-    description: "Inflation, dette, monnaies, commerce mondial, classes et banques centrales.",
+    description: "Dette, monnaie, commerce mondial, banques centrales et dépendances économiques.",
     color: "brass"
+  },
+  {
+    title: "Culture & littérature",
+    slug: "culture-litterature",
+    description: "Essais, livres, formes artistiques et imaginaires politiques du présent.",
+    color: "wine"
   },
   {
     title: "Économie politique",
     slug: "economie-politique",
-    description: "Capitalisme, travail, bureaucraties, souveraineté et transformations productives.",
+    description: "Travail, bureaucraties, souveraineté et transformations productives.",
     color: "moss"
   },
   {
     title: "Théorie & idées",
     slug: "theorie-idees",
-    description: "Concepts, débats intellectuels, traditions critiques et libertés collectives.",
+    description: "Concepts, traditions critiques, controverses et libertés collectives.",
     color: "night"
   },
   {
-    title: "Données & graphiques",
+    title: "Données & cartes",
     slug: "donnees-graphiques",
-    description: "Repères empiriques, visualisations et chiffres commentés.",
-    color: "brass"
+    description: "Repères empiriques, cartes, visualisations et chiffres commentés.",
+    color: "ochre"
   },
   {
     title: "Briefing hebdomadaire",
@@ -55,15 +61,15 @@ export const siteConfig: SiteConfig = {
   name: "La Traverse",
   shortName: "LT",
   description:
-    "Une revue critique indépendante consacrée aux rapports de force internationaux, à l'économie politique, aux institutions et aux conflits du présent.",
-  promise: "Comprendre les rapports de force sans céder au bruit médiatique ni aux réflexes de camp.",
+    "Une revue critique indépendante basée autour de Genève, entre analyse internationale, économie politique, littérature, culture et cartographie du présent.",
+  promise: "Depuis Genève, lire les rapports de force sans céder au bruit médiatique ni aux réflexes de camp.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",
   locale: "fr_FR",
   contactEmail: "contact@latraverse.fr",
   author: {
     name: "Rédaction",
     slug: "redaction",
-    bio: "Collectif éditorial indépendant, attaché à l'autonomie intellectuelle, à l'enquête documentée et au refus des autoritarismes."
+    bio: "Collectif éditorial indépendant, attaché à l'autonomie intellectuelle, à l'enquête documentée, aux formes littéraires et au refus des autoritarismes."
   },
   social: {
     newsletter: "/newsletter"
@@ -72,6 +78,9 @@ export const siteConfig: SiteConfig = {
   tags: [
     "États-Unis",
     "Europe",
+    "Genève",
+    "Léman",
+    "Alpes",
     "Chine",
     "Russie",
     "Moyen-Orient",
@@ -82,9 +91,13 @@ export const siteConfig: SiteConfig = {
     "Dollar",
     "Souveraineté",
     "Guerre économique",
+    "Diplomatie",
+    "Institutions internationales",
     "Élections",
     "Conflits sociaux",
     "Libertés publiques",
+    "Culture",
+    "Littérature",
     "Bureaucratie",
     "Travail",
     "Capitalisme",

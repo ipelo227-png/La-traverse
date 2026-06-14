@@ -18,8 +18,8 @@ html {
 
 body {
   margin: 0;
-  background: #f7f3eb;
-  color: #16171a;
+  background: #f4eee2;
+  color: #17131b;
   font-family: var(--font-news-sans);
 }
 
@@ -29,7 +29,7 @@ a {
 }
 
 ::selection {
-  background: #7a1f2b;
+  background: #0b4ea2;
   color: #fffaf2;
 }
 
@@ -40,7 +40,7 @@ a {
 }
 
 .editorial-prose h2 {
-  color: #102033;
+  color: #07143f;
   font-family: var(--font-news-serif);
   font-size: 2rem;
   line-height: 1.15;
@@ -48,7 +48,7 @@ a {
 }
 
 .editorial-prose h3 {
-  color: #102033;
+  color: #07143f;
   font-size: 1.2rem;
   margin: 2rem 0 0.75rem;
 }
@@ -72,5 +72,5 @@ a {
 }
 
 .focus-ring:focus-visible {
-  outline-color: #7a1f2b;
+  outline-color: #0b4ea2;
 }

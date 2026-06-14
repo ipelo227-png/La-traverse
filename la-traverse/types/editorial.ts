@@ -12,7 +12,7 @@ export type EditorialFormat =
   | "Lecture d'auteur"
   | "Chronique";
 
-export type RubricColor = "night" | "wine" | "moss" | "brass";
+export type RubricColor = "night" | "wine" | "moss" | "brass" | "lake" | "mauve" | "ochre";
 
 export type Rubric = {
   title: string;

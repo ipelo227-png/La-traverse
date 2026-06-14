@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <rect width="1200" height="630" fill="#102033"/>
-  <rect x="60" y="60" width="1080" height="510" fill="#f7f3eb"/>
-  <text x="110" y="180" fill="#7a1f2b" font-family="Arial, sans-serif" font-size="28" font-weight="700">REVUE CRITIQUE INDEPENDANTE</text>
-  <text x="110" y="330" fill="#102033" font-family="Georgia, serif" font-size="100">La Traverse</text>
-  <text x="110" y="480" fill="#64615c" font-family="Arial, sans-serif" font-size="30">Rapports de force, economie politique et libertes publiques.</text>
-  <path d="M780 182 C858 112 995 143 1033 238 C1070 331 992 430 885 401 C810 381 751 433 704 374 C652 309 704 247 780 182Z" fill="#d9d1c4"/>
-  <path d="M742 442 L828 360 L912 394 L1032 286" fill="none" stroke="#7a1f2b" stroke-width="12"/>
+  <rect width="1200" height="630" fill="#07143f"/>
+  <rect x="60" y="60" width="1080" height="510" fill="#f4eee2"/>
+  <path d="M60 368 C210 298 350 314 482 362 C642 420 811 401 1140 310 L1140 570 L60 570Z" fill="#0b4ea2" opacity="0.92"/>
+  <path d="M604 302 L715 172 L792 267 L879 142 L1038 326 L1140 274 L1140 570 L604 570Z" fill="#77549a" opacity="0.82"/>
+  <path d="M868 152 L912 204 L842 202Z" fill="#d99a31"/>
+  <text x="110" y="170" fill="#8f213d" font-family="Arial, sans-serif" font-size="28" font-weight="700">GENEVE | LEMAN | MONDES CONTEMPORAINS</text>
+  <text x="110" y="324" fill="#07143f" font-family="Georgia, serif" font-size="104">La Traverse</text>
+  <text x="110" y="470" fill="#17131b" font-family="Arial, sans-serif" font-size="30">Analyse critique, diplomatie, culture et economie politique.</text>
 </svg>

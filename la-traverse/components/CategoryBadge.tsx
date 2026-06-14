@@ -6,7 +6,10 @@ export function CategoryBadge({ slug }: { slug: string }) {
     night: "border-night text-night",
     wine: "border-wine text-wine",
     moss: "border-moss text-moss",
-    brass: "border-brass text-brass"
+    brass: "border-brass text-brass",
+    lake: "border-lake text-lake",
+    mauve: "border-mauve text-mauve",
+    ochre: "border-ochre text-ochre"
   }[rubric?.color ?? "night"];
 
   return (
